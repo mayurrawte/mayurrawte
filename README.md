@@ -1,156 +1,225 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Mayur+Rawte;CTO+%40+Shipthis;10%2B+Years+Building+Products;Engineer+%E2%80%A2+Designer+%E2%80%A2+Leader" alt="Typing SVG" />
+</h1>
 
-### <div align="center">I'm Mayur, a full-time full-stack developer 👨‍💻 working as a CTO at @shipthis 🚀</div>  
-  
+<p align="center">
+  <strong>Building the future of freight forwarding at <a href="https://shipthis.co">Shipthis</a></strong>
+</p>
 
-- 🔭 I’m currently working on [Angular Github Action](https://github.com/mayurrawte/github-angular-actions)  
-  
+<p align="center">
+  <a href="https://linkedin.com/in/mayurrawte">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/mayurrawte">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@rawte.mayur">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning Rust  
-  
+---
 
-- ❓ Ask me about anything related to MEAN stack and related technologies  
-  
+<br/>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+## The TL;DR
 
-<br/>  
+> **CTO & Founding Engineer** scaling a B2B SaaS platform that's digitizing the $12T global logistics industry. <br/>
+> **10+ years** shipping products — from embedded systems to enterprise software. <br/>
+> **Full-stack engineer** who designs, codes, and leads.
 
+<br/>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## About
 
+```typescript
+const mayur = {
+  role: "Chief Technology Officer",
+  company: "Shipthis",
+  location: "Bengaluru, India",
+  status: "Founding Engineer → CTO",
 
+  background: {
+    engineering: "B.E. Information Technology",
+    psychology: "M.A. Psychology (IGNOU)",
+    experience: "10+ years"
+  },
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://nativescript.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nativescript.png" alt="NativeScript" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-</div>
+  what_i_do: [
+    "Lead engineering & product at a B2B SaaS startup",
+    "Architect systems that scale for global logistics",
+    "Design intuitive user experiences",
+    "Build and mentor high-performance teams"
+  ],
 
-</td><td valign="top" width="33%">
+  passion: "Merging psychology with technology to build products people love"
+};
+```
 
+<br/>
 
+## Why Psychology?
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
+I've always been fascinated by a simple question: **why do people do what they do?**
 
-</td><td valign="top" width="33%">
+As an engineer, I realized the best code in the world means nothing if users don't *want* to use it. So I went back to school — not to learn another framework, but to study the human mind.
 
+**The result?** A unique lens for building products:
 
+- **UI/UX decisions** backed by cognitive psychology — understanding attention, memory, and decision-making
+- **User research** that goes beyond surveys — reading behavior, not just feedback
+- **Product strategy** rooted in human motivation — building for how people actually think
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-</div>
+The username **@thepsygeek** isn't just a handle — it's how I approach everything I build.
 
-</td></tr></table>  
+> *"The best technology disappears. It just feels like magic — because it understands you."*
 
-<br/>  
+<br/>
 
+## What I'm Building
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/mayurrawte" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/mayurrawte" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+<table>
+<tr>
+<td>
 
-<a href="https://www.linkedin.com/in/mayurrawte/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</a>
-<a href="https://instagram.com/thepsygeek" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@rawte.mayur" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+### [Shipthis](https://shipthis.co)
 
-<br/>  
+**AI-powered freight forwarding software** transforming how logistics companies operate globally.
 
+- End-to-end platform: Air, Ocean, Land, Rail, Multimodal
+- White-labeled SaaS serving freight forwarders worldwide
+- Built from 0 → scale as founding engineer & CTO
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mayurrawte&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+</td>
+</tr>
+</table>
 
-<br/>  
+<br/>
 
+## Recognition & Impact
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+<p align="center">
+  <img src="https://img.shields.io/badge/Ministry_of_Power_&_Coal-Best_IoT_Solution-FFD700?style=for-the-badge" alt="Ministry Award" />
+  <img src="https://img.shields.io/badge/Smart_India_Hackathon-Finalist-C0C0C0?style=for-the-badge" alt="SIH" />
+</p>
 
-<br/>  
+| Achievement | Details |
+|-------------|---------|
+| **ELIOT** | IoT energy meter selected as best solution by Ministry of Power & Coal, India |
+| **Smart India Hackathon** | Finalist — solved Airport Authority of India problem statement |
+| **Research Published** | "Smart Prepaid Energy Meter based on IoT" — [IJCA 2017](https://www.ijcaonline.org/archives/volume171/number2/28154-2017914985/) |
+| **Even Cargo** | Built tech stack from scratch as founding engineer |
+| **Police Training School** | Developed official portal for MP Police |
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=wd8japjugx122p6muj33wmoti&cover_image=true&theme=default&show_offline=false&bar_color=51e03e&bar_color_cover=true" /></div>  
+<br/>
 
-<br/>  
+## Tech I Work With
 
-  
+<details open>
+<summary><b>Frontend & Design</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,figma,xd&theme=dark" alt="Frontend" />
+</p>
+<p align="center"><em>UI/UX design has been core to my work since day one</em></p>
+</details>
 
-<br/>  
+<details open>
+<summary><b>Backend & Infrastructure</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,rust,go,graphql&theme=dark" alt="Backend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,redis,postgres&theme=dark" alt="Infra" />
+</p>
+</details>
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/thepsygeek" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>  
+<details>
+<summary><b>IoT & Hardware</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c&theme=dark" alt="IoT" />
+</p>
+</details>
 
-<br/>  
+<details>
+<summary><b>Creative Suite</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,lr,ai,pr,ae&theme=dark" alt="Creative" />
+</p>
+</details>
 
+<br/>
 
-<br />
+## Journey
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+```
+2017 → Present    Shipthis
+                  Founding Engineer → VP Engineering → CTO
+
+2016 → 2017       Even Cargo
+                  Founding Engineer — built product from 0 to launch
+
+2016              Started freelancing
+                  Web, Mobile, IoT projects
+
+2013 → 2017       B.E. Information Technology
+                  Research: IoT, Smart Systems
+
+2019 → 2021       M.A. Psychology (IGNOU)
+                  Because understanding users > guessing
+```
+
+<br/>
+
+## GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayurrawte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mayurrawte&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+## Open Source
+
+<p align="center">
+  <a href="https://github.com/mayurrawte/github-angular-actions">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurrawte&repo=github-angular-actions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="Angular Actions" />
+  </a>
+  <a href="https://github.com/mayurrawte/SherlockQA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurrawte&repo=SherlockQA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="SherlockQA" />
+  </a>
+</p>
+
+<br/>
+
+## Beyond Code
+
+<p align="center">
+  <a href="https://www.pexels.com/@mayur-rawte/">
+    <img src="https://img.shields.io/badge/Photography-Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels" />
+  </a>
+  <a href="https://instagram.com/thepsygeek">
+    <img src="https://img.shields.io/badge/Life-@thepsygeek-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <em>When not shipping code, you'll find me capturing moments through my camera.</em>
+</p>
+
+<br/>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Let's build something together.</strong><br/>
+  <a href="mailto:rawte.mayur@gmail.com">rawte.mayur@gmail.com</a>
+</p>
