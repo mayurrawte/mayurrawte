@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/sponsors/mayurrawte">
+    <img src="https://img.shields.io/badge/Sponsor_my_work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
   <a href="https://linkedin.com/in/mayurrawte">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -82,13 +85,26 @@ The username **@thepsygeek** isn't just a handle — it's how I approach everyth
 <tr>
 <td>
 
-### [Shipthis](https://shipthis.co)
+### [Shipthis](https://shipthis.co) — Primary Focus
 
 **AI-powered freight forwarding software** transforming how logistics companies operate globally.
 
 - End-to-end platform: Air, Ocean, Land, Rail, Multimodal
 - White-labeled SaaS serving freight forwarders worldwide
 - Built from 0 → scale as founding engineer & CTO
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [Teamsly](https://github.com/mayurrawte/teamsly) — Open Source
+
+**A Slack-style interface for Microsoft Teams.** Built with Next.js 15 and the official Microsoft Graph API. Self-hosted, AGPL-3.0.
+
+- Faster, cleaner UX than the official Teams client
+- Conversations stay in Microsoft 365 — Teamsly stores nothing
+- My OSS counterpart to the B2B SaaS work at Shipthis
 
 </td>
 </tr>
