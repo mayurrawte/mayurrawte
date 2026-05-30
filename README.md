@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://mayurrawte.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/sponsors/mayurrawte">
     <img src="https://img.shields.io/badge/Sponsor_my_work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
   </a>
